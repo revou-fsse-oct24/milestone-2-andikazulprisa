@@ -11,7 +11,7 @@ const router = createBrowserRouter( [
   {
     path: "/",
     element: 
-      <div>TAMBAHKAN "/login" DISEBELAH localhost dan login sesuai API</div>,
+      <div>TAMBAHKAN "/login" DISEBELAH URL dan login sesuai API</div>,
     errorElement: <ErrorPage />,
   },
   {

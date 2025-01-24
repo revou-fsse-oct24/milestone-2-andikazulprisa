@@ -4,7 +4,9 @@
 
 ### Dan mmaf juga saya tidak bisa login ke vercel menggunakan repository revoU, jadi saya hanya bisa deploy di github
 
-[ini Link ShopSmart](https://revou-fsse-oct24.github.io/milestone-2-andikazulprisa/)
+[KaMart](https://revou-fsse-oct24.github.io/milestone-2-andikazulprisa/)
+
+#### Kenapa saat di deploy, web tidak bisa terbuka tapi di local bisa padahal semua path sudah sesuai
 
 ## Untuk dokumennya saat ini belum lengkap, tapi akan secepatnya saya update, tentu saja requirements dari milestone-2 ini juga akan saya selesaikan secepatnya
 
