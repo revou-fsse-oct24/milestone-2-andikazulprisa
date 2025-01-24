@@ -2,7 +2,7 @@
 
 ## Sebelumnya saya minta maaf belum bisa menyelesaikan tugas sesuai deadline yang ditentukan
 
-### Dan mmaf juga saya tidak bisa login ke vercel menggunakan repository revoU, jadi saya hanya bisa deploy di github
+### Dan maaf juga saya tidak bisa login ke vercel menggunakan repository revoU, jadi saya hanya bisa deploy di github
 
 [KaMart](https://revou-fsse-oct24.github.io/milestone-2-andikazulprisa/)
 
